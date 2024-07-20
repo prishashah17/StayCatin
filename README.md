@@ -5,12 +5,18 @@ Project Overview
 As a Business Analyst at StayCatin.com, your role involves analyzing data related to property listings, reviews, and price fluctuations over time. This dashboard will provide valuable insights to the management team, helping them address key business questions and make data-driven decisions.
 
 Key Questions Addressed
-Top 10 Earners: Identify the top 10 properties generating the highest earnings.
-Relationship Between Price and Earnings: Analyze how the price of properties correlates with their earnings.
-Earnings by Location: Determine if any specific location (e.g., shore areas) is generating more earnings compared to others.
-Relationship Between Price and Reviews: Examine how the price of properties influences customer reviews and ratings.
+-Top 10 Earners: Identify the top 10 properties generating the highest earnings.
+-Relationship Between Price and Earnings: Analyze how the price of properties correlates with their earnings.
+-Earnings by Location: Determine if any specific location (e.g., shore areas) is generating more earnings compared to others.
+-Relationship Between Price and Reviews: Examine how the price of properties influences customer reviews and ratings.
 
-Dashboard Features
+Dashboard Features:
 Interactive Visualizations: Visual representations of the data to make it easier for management to understand and analyze the information.
 Filters and Drill-Downs: Options to filter data by various criteria and drill down into specific details.
-Summary Reports: Concise reports highlighting the key findings and insights derived from the data analysis.
+
+Summary Reports: 
+Concise reports highlighting the key findings and insights derived from the data analysis.
+
+Link to dataset: https://docs.google.com/spreadsheets/d/1DJjooTNVL6lXqiiCowOqi6Js4rUBb2GSAyGHcdX1aY8/edit?gid=1154935988#gid=1154935988
+Link to my Dashboard : https://public.tableau.com/app/profile/prisha.shah3605/viz/StayCatin-dashboard/StayCatin-Dashboard
+Link to my StoryBoard : https://public.tableau.com/app/profile/prisha.shah3605/viz/StayCatin-storyboard/StayCatin-Storyboard
